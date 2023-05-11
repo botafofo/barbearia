@@ -1,9 +1,44 @@
 h1{
     text-align: center;
-    color: blue;
+    color: rgb(73, 153, 245);
+    font-size: 68px;
+    font-style: italic;
+    background-color: darkblue;
+    padding: 40;
 
 }
+
 body{
-    font-size: xx-large;
+    font-size:larger;
 
 }
+
+.imagem{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 430px;
+    border-color: rgb(73, 153, 245);
+    border-radius: 40px;
+    border-style: initial;
+
+}
+
+ul{
+    background-color: rgb(73, 153, 245);
+}
+
+.contato {
+
+    background-color:dodgerblue;
+    width: 80%;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+
+
