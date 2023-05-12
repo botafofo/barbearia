@@ -26,16 +26,24 @@ body{
 }
 
 ul{
-    background-color: rgb(73, 153, 245);
+    background-color:rgb(22, 34, 143);
 }
 
 .contato {
 
     background-color:dodgerblue;
-    width: 80%;
+    width: 70%;
     border-radius: 30px;
     margin: auto;
     text-align: center;
+}
+
+.texto{
+    background-color: rgb(4, 8, 255);
+    width: 70%;
+    border-radius: 30px;
+    margin:auto;
+
 }
 
 
