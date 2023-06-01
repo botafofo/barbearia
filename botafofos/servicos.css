@@ -1,0 +1,22 @@
+h1 {text-align: center;
+    color: blue;
+    font-size: 50px;
+    font-style: italic;
+}
+
+header{
+    background-color: cornflowerblue;
+}
+
+nav li {
+    display: inline;
+    margin-right: 18px;
+}
+
+nav a {
+text-transform: uppercase;
+color: darkblue;
+font-weight: bold;
+font-size: 15px;
+text-decoration: none;
+}
